@@ -37,7 +37,7 @@ def spec_only(strlargo):
     """
 
     if type(strlargo)==str:
-        limpia=re.findall('\w+ shark',strlargo)
+        limpia=re.findall('\w+ .hark',strlargo)
     else:
         return "unknown"
 
