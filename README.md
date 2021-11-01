@@ -11,7 +11,7 @@ Our task as data analysts is to clean data through all those singularities, and 
 
 ## Goal
 
-We need to clean the data with an array (pun intended) of techniques and store this data in a clean data-set. Then, we will have to set three aprioristic hypothesis and confirm or discard them via data exploratory analysis. This conclusions should be shown graphically with the most appropiate charts.
+We need to clean the data with an array (pun intended) of techniques, and store this data in a clean data-set. Then, we will have to set three aprioristic hypothesis and confirm or discard them via data exploratory analysis. This conclusions should be shown graphically with the most appropiate charts.
 
 ## what is in this repo
 
@@ -37,9 +37,9 @@ In this project we have used the following libraries:
 
 We confirm our three hypothesis with the exploration of the data we have previously cleaned:
 
-    - Sharks attacks are registered primarily in the summer, when most people dive in the sea for swimming or surfing.
-    - South Pacific ocean (Australis and Micronesia majorly) and the Caribbean are the most dangerous seas.
-    - The white shark is by far responsibleof the majority of attacks.
+   - Sharks attacks are registered primarily in the summer, when most people dive in the sea for swimming or surfing.
+   - South Pacific ocean (Australia and Micronesia majorly) and the Caribbean are the most dangerous seas.
+   - The white shark is by far responsible of the majority of attacks.
 
 Have a good reading and enjoy the water!
 
