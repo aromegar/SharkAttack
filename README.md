@@ -1,7 +1,7 @@
 
 # SharkAttack
 
-![](https://64.media.tumblr.com/260efee47dab08a8bd7b2a05d6780aad/ab4afe7b36dcb3ef-b3/s400x600/76eab52dacdcfb6cbb31a80415939e15b0eb772b.gifv)
+![](https://i.pinimg.com/originals/6d/23/e6/6d23e6c3618186f7670a51d53375ae39.gif)
 
 ## Analyzing a data-set with pandas to identify patterns in shark attacks
 
