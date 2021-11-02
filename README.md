@@ -1,7 +1,7 @@
 
 # SharkAttack
 
-![](https://st.depositphotos.com/2196544/2323/i/950/depositphotos_23239198-stock-photo-cartoon-smiling-baby-shark.jpg)
+![](https://64.media.tumblr.com/260efee47dab08a8bd7b2a05d6780aad/ab4afe7b36dcb3ef-b3/s400x600/76eab52dacdcfb6cbb31a80415939e15b0eb772b.gifv)
 
 ## Analyzing a data-set with pandas to identify patterns in shark attacks
 
