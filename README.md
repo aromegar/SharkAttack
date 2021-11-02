@@ -5,7 +5,7 @@
 
 ## Analyzing a data-set with pandas to identify patterns in shark attacks
 
-With this analysis, we try to identify wich are the most repeated patterns when a shark has attacked a human person.
+With this analysis, we try to identify wich are the most repeated patterns when a shark has attacked humans.
 
 A lot of individual events have been registered since 18th century with the development of navigation around the oceans. In modern times, scientific societies have tried to standarize the registers throu an universal questionary where information like place, time, activity, shark specie or victims' personal details have been stored. Despite that, there are still a lot of unstandarized answers in those questionaries.
 
@@ -49,7 +49,9 @@ In this project we have used the following libraries:
 We confirm our three hypothesis with the exploration of the data we have previously cleaned:
 
    - Sharks attacks are registered primarily in the summer, when most people dive in the sea for swimming or surfing.
-   - South Pacific ocean (Australia and Micronesia majorly) and the Caribbean are the most dangerous seas.
+   
+   - South Pacific ocean (Australia and Polinesia mainly) and the Caribbean are the most dangerous seas.
+   
    - The white shark is by far responsible of the majority of attacks.
 
 Have a good reading and enjoy the water!
