@@ -1,7 +1,7 @@
 
 # SharkAttack
 
-! (https://st.depositphotos.com/2196544/2323/i/950/depositphotos_23239198-stock-photo-cartoon-smiling-baby-shark.jpg)
+![](https://st.depositphotos.com/2196544/2323/i/950/depositphotos_23239198-stock-photo-cartoon-smiling-baby-shark.jpg)
 
 ## Analyzing a data-set with pandas to identify patterns in shark attacks
 
@@ -32,11 +32,16 @@ In this repository you will find:
 ## libraries
 
 In this project we have used the following libraries:
-    - pandas   https://pandas.pydata.org/docs/
-    - numpy   https://numpy.org/doc/stable/
-    - plotly   https://plotly.com/python/
-    - seaborn   https://seaborn.pydata.org/
-    - our own "cleaning_functions.py"
+
+ - pandas   https://pandas.pydata.org/docs/
+ 
+ - numpy   https://numpy.org/doc/stable/
+ 
+ - plotly   https://plotly.com/python/
+ 
+ - seaborn   https://seaborn.pydata.org/
+ 
+ - our own "cleaning_functions.py"
     
     
 # summary
